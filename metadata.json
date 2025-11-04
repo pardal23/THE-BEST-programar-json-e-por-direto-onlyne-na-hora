@@ -1,0 +1,5 @@
+{
+  "name": "JSON Link Opener & Tools",
+  "description": "An interactive tool to edit JSON data, open links from it, generate bookmarklets, and more. All operations run locally in your browser for privacy and speed.",
+  "requestFramePermissions": []
+}
